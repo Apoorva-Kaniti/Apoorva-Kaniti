@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Apoorva-Kaniti
 - 👀 I’m interested in new innovative projects.
-- 🌱 I’m currently working in Smart Food Safe as a Trainee developer.
+- 🌱 I’m currently working in Smart Food Safe as a developer.
 - 📫 How to reach me apoorva.kaniti@smartfoodsafe.com
 
 <!---
